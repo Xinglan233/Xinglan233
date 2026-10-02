@@ -25,11 +25,33 @@
 
 <!-- PROFILE:START -->
 <details>
-<summary>统计口径</summary>
+<summary>统计明细与口径</summary>
 
-首次运行 Actions 后填入真实数据；当前的「—」不是零分。
+数据日期：2026-10-02（UTC）。
 
-语言占比按代码字节统计，不代表熟练度。评分采用 GitHub Readme Stats 公式，不是 GitHub 官方能力评分。
+| 指标 | 数值 |
+| --- | ---: |
+| 2026 年提交 | 21 |
+| 收到的 Star | 2 |
+| 公开 Pull requests | 7 |
+| 公开 Issues | 0 |
+| 2026 年评审贡献 | 0 |
+| Followers | 0 |
+| GRS 活动评级 | C |
+
+| 语言 | 代码占比 |
+| --- | ---: |
+| TypeScript | 62.3% |
+| HTML | 16.5% |
+| Java | 8.6% |
+| Vue | 5.8% |
+| CSS | 5.2% |
+| Other | 1.6% |
+
+语言按本人公开、非 fork、未归档仓库的代码字节统计，排除同名主页仓库。
+Star 汇总保留归档仓库；提交和评审按当年统计，PR、Issue、Star 为累计值。
+GRS 采用 GitHub Readme Stats 的活动评级公式，不是 GitHub 官方评分，也不代表技术水平或实测全球排名。
+原生贡献图还会计入其他类型的贡献，不能把绿点总数直接当成 commit 数。
 
 </details>
 <!-- PROFILE:END -->
