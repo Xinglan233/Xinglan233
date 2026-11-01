@@ -23,13 +23,13 @@
 <details>
 <summary>统计明细与口径</summary>
 
-数据日期：2026-10-31（UTC）。
+数据日期：2026-11-01（UTC）。
 
 | 指标 | 数值 |
 | --- | ---: |
 | 2026 年提交 | 170 |
 | 收到的 Star | 1 |
-| 公开 Pull requests | 83 |
+| 公开 Pull requests | 84 |
 | 公开 Issues | 13 |
 | 2026 年评审贡献 | 0 |
 | Followers | 1 |
