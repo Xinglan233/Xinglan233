@@ -23,13 +23,13 @@
 <details>
 <summary>统计明细与口径</summary>
 
-数据日期：2026-11-13（UTC）。
+数据日期：2026-11-14（UTC）。
 
 | 指标 | 数值 |
 | --- | ---: |
-| 2026 年提交 | 182 |
-| 收到的 Star | 1 |
-| 公开 Pull requests | 84 |
+| 2026 年提交 | 180 |
+| 收到的 Star | 2 |
+| 公开 Pull requests | 82 |
 | 公开 Issues | 13 |
 | 2026 年评审贡献 | 0 |
 | Followers | 1 |
@@ -37,12 +37,12 @@
 
 | 语言 | 代码占比 |
 | --- | ---: |
-| TypeScript | 80.1% |
-| HTML | 7.1% |
-| CSS | 5.8% |
-| Astro | 2.8% |
-| Java | 2.0% |
-| Other | 2.2% |
+| TypeScript | 83.1% |
+| HTML | 7.4% |
+| CSS | 5.7% |
+| Astro | 3.0% |
+| JavaScript | 0.4% |
+| Other | 0.4% |
 
 语言按本人公开、非 fork、未归档仓库的代码字节统计，排除同名主页仓库。
 Star 汇总保留归档仓库；提交和评审按当年统计，PR、Issue、Star 为累计值。
